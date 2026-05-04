@@ -96,16 +96,6 @@ A hands-on migration journey to gain deeper understanding of system internals, a
 
 ---
 
-## GitHub Stats
-<div align="center">
-
-<!-- Streak Stats -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tazbikislam&theme=github-dark-blue&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-
-</div>
-
----
-
 ## Education & Achievements
 ### 🎓 Education
 - **B.S. Cyber Security** — *Arab Open University, Bahrain*
