@@ -72,7 +72,7 @@ With a great interest in **Cyber Security**, I’m a **B.Sc. Cybersecurity Under
 
 If you’re looking for someone who’s serious about **SOC workflows, DFIR fundamentals, Linux, and Security Operation**, I’m open to:
 
-- **Hiring / internships** (security analyst, SOC, DFIR-focused roles)
+- **Hiring / Internships** (Security Analyst, IT Support roles)
 - **Collaborations** (open-source labs, tooling, documentation)
 
 ---
@@ -107,7 +107,5 @@ A hands-on migration journey to gain deeper understanding of system internals, a
 - **Python 101 & Python 201** — TCM Security  
 - **Linux 101** — TCM Security  
 
-### 🏆 Highlights
-- Built a **Cyber Security Home Lab** for vulnerability assessment & monitoring practice  
-- Switched from Windows to **Arch Linux** to deepen operational and system-level understanding  
+### 🏆 Achievements
 - **Most Diplomatic Award** — Indian School Bahrain Model United Nations  
