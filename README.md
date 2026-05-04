@@ -68,15 +68,12 @@ With a great interest in **Cyber Security**, I’m a **B.Sc. Cybersecurity Under
 
 ---
 
-## Stats
-<div align="center">
+## Connect
 
-| Category | Status | Link |
-|---|---:|---|
-| Open-source security labs | ✅ Active | https://github.com/tazbikislam |
-| Hiring / Collaborations | ✅ Open | tazbikislam.work@gmail.com |
+If you’re looking for someone who’s serious about **SOC workflows, DFIR fundamentals, Linux, and Security Operation**, I’m open to:
 
-</div>
+- **Hiring / internships** (security analyst, SOC, DFIR-focused roles)
+- **Collaborations** (open-source labs, tooling, documentation)
 
 ---
 
@@ -124,10 +121,3 @@ A hands-on migration journey to gain deeper understanding of system internals, a
 - Built a **Cyber Security Home Lab** for vulnerability assessment & monitoring practice  
 - Switched from Windows to **Arch Linux** to deepen operational and system-level understanding  
 - **Most Diplomatic Award** — Indian School Bahrain Model United Nations  
-
----
-
-## Connect
-If you’re looking for someone who’s serious about **SOC workflows, DFIR fundamentals, Linux, and security operation**, I’m open to:
-- **Hiring / internships** (security analyst, SOC, DFIR-focused roles)
-- **Collaborations** (open-source labs, tooling, documentation)
