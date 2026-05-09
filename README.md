@@ -40,7 +40,7 @@ With a great interest in **Cyber Security**, I’m a **B.Sc. Cybersecurity Under
 |---|---|---|
 | 🔬 Lab Engineering | Vulnerability Scanning Lab | Build a repeatable scanning and reporting workflow |
 | 🛠️ Automation | Python scripts for security tasks | Reduce manual steps and consistent results |
-| 🐧 Linux Ops | Daily-driving Arch Linux | Deeper system understanding and hardening mindset |
+| 🐧 Linux Ops | Daily-driving Arch Linux & Ubuntu | Deeper system understanding and hardening mindset |
 
 </div>
 
