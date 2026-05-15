@@ -32,15 +32,14 @@
 With a great interest in **Cyber Security**, I’m a **B.Sc. Cybersecurity Undergraduate** with a profound interest on **SOC & DFIR**. I’ve been carrying out **independent research** on security topics and developing **Python** skills, looking for an entry level opportunity in a **Security Operations Center** or **IT Support** role where I can apply my **analytical mindset**.
 
 ---
+## Current Focus
 
-## Current Work
-<div align="center">
+<div>
 
-| Area | What I’m doing now | Outcome |
-|---|---|---|
-| 🔬 Lab Engineering | Vulnerability Scanning Lab | Build a repeatable scanning and reporting workflow |
-| 🛠️ Automation | Python scripts for security tasks | Reduce manual steps and consistent results |
-| 🐧 Linux Ops | Daily-driving Arch Linux & Ubuntu | Deeper system understanding and hardening mindset |
+- Exploring **System Operations**, **Network Security**, **Packet Analysis** and **SIEM**
+- Building a dedicated **SOC Automation Lab**.
+- Creating **Python Projects** to close the security and code gap.
+- Solving rooms and active learning on **TryHackMe**.
 
 </div>
 
@@ -88,11 +87,15 @@ If you’re looking for someone who’s serious about **SOC workflows, DFIR fund
 
 ### 1) CyberSecurity Home Lab  
 **Repo:** https://github.com/tazbikislam/CyberSecurity-Home-Lab  
-A personal, allocated **CyberSecurity Home Lab** designed as a safe environment for **system vulnerability assessment** and **network monitoring**—built to support repeatable practice and real-world SOC-style workflows.
+A personal allocated CyberSecurity Home Lab provides a safe and controlled environment to conduct System Vulnerability Assessment and Network Monitoring.
 
 ### 2) Switch from Windows to Arch Linux  
 **Repo:** https://github.com/tazbikislam/Switch-from-Windows-to-Arch-Linux  
-A hands-on migration journey to gain deeper understanding of system internals, achieve stronger control over the OS, and build a minimal system from the ground up.
+To gain deeper technical knowledge of system operations, achieve greater control over the operating system, and build a minimal system from the ground up.
+
+### 3) Python Web Scrapper
+**Repo:** https://github.com/tazbikislam/Python-Web-Scraper
+A Python web scraper built with the rich package for a better CLI interface, to easily extract structured information from any website.
 
 ---
 
@@ -101,11 +104,12 @@ A hands-on migration journey to gain deeper understanding of system internals, a
 - **B.S. Cyber Security** — *Arab Open University, Bahrain*
 
 ### 📜 Certifications
-- **Pre Security** — TryHackMe  
+- **Pre Security** — TryHackMe
+- **Cyber Security 101** - TryHackMe  
 - **Practical Ethical Hacking** — TCM Security  
 - **Open-Source Intelligence (OSINT) Fundamentals** — TCM Security  
 - **Python 101 & Python 201** — TCM Security  
 - **Linux 101** — TCM Security  
 
 ### 🏆 Achievements
-- **Most Diplomatic Award** — Indian School Bahrain Model United Nations  
+- Recognized for delivering practical and diplomatic solutions and demonstrated leadership, negotiation, communication, and teamwork skills in the Model United Nations conference.
