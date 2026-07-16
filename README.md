@@ -94,7 +94,7 @@ A personal allocated CyberSecurity Home Lab provides a safe and controlled envir
 To gain deeper technical knowledge of system operations, achieve greater control over the operating system, and build a minimal system from the ground up.
 
 ### 3) Python Web Scrapper
-**Repo:** https://github.com/tazbikislam/Python-Web-Scraper
+**Repo:** https://github.com/tazbikislam/Python-Web-Scraper <br>
 A Python web scraper built with the rich package for a better CLI interface, to easily extract structured information from any website.
 
 ---
@@ -104,8 +104,9 @@ A Python web scraper built with the rich package for a better CLI interface, to 
 - **B.S. Cyber Security** — *Arab Open University, Bahrain*
 
 ### 📜 Certifications
+- **SOC Level 1** - TryHackMe
+- **Cyber Security 101** - TryHackMe
 - **Pre Security** — TryHackMe
-- **Cyber Security 101** - TryHackMe  
 - **Practical Ethical Hacking** — TCM Security  
 - **Open-Source Intelligence (OSINT) Fundamentals** — TCM Security  
 - **Python 101 & Python 201** — TCM Security  
