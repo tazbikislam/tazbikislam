@@ -101,7 +101,7 @@ A Python web scraper built with the rich package for a better CLI interface, to 
 
 ## Education & Achievements
 ### 🎓 Education
-- **B.S. Cyber Security** — *Arab Open University, Bahrain*
+- **B.Sc. (Hons) Cyber Security** — *Arab Open University, Bahrain*
 
 ### 📜 Certifications
 - **SOC Level 1** - TryHackMe
